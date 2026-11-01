@@ -34,7 +34,7 @@ A Java-based character battle simulation developed using object-oriented program
 
 Compile and run the Java source files using a Java Development Kit (JDK).
 
-If the source files declare package a;, compile from the directory containing the `exercise` folder:
+If the source files declare package a;, compile from the directory containing the a folder:
 
 javac a/*.java
 java a.Main5
